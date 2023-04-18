@@ -6,8 +6,3 @@ ul li::marker {
 body {
   font-family: Papyrus;
 }
-
-html {
-  display: flex;
-  justify-content: center;
-}
