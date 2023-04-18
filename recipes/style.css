@@ -1,0 +1,13 @@
+ul li::marker {
+    content: '✓';
+    color: green
+  }
+
+body {
+  font-family: Papyrus;
+}
+
+html {
+  display: flex;
+  justify-content: center;
+}
